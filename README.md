@@ -1,5 +1,5 @@
 # EJERCICIO: Herencia en la POO
-## LINK: 
+## LINK: https://github.com/luciacantos/prueba_nivel_POO
 
 ### Enunciado
 Utilizando esta nueva técnica extiende la clase Vehiculo y realiza la siguiente
